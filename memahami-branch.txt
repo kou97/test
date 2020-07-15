@@ -1,2 +1,3 @@
 branch yaitu cabang dari development
+  ^konplik branch terjad ketika ada yang merrubah di baris yg sama
 ada istilah pull request
