@@ -1,0 +1,2 @@
+branch yaitu cabang dari development
+ada istilah pull request
