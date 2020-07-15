@@ -1,3 +1,5 @@
 branch yaitu cabang dari development
+  ^memahami konsep branch komplik
   ^konplik branch terjad ketika ada yang merrubah di baris yg sama
 ada istilah pull request
+  ^diterima oleh master
